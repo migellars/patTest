@@ -1,0 +1,12 @@
+{
+  "environment": "dev",
+  "app_name": "Kassandah",
+  "db_conn": "mongodb://localhost:27017/patDb",
+  "port": "5000",
+  "jwtPrivateKey": "isiLRTBlmSt0Y9qjtU6NTuHIP7xU2XoivazUXrfePFGwbhb7mtrNkqLBS3YRrWam",
+  "jwtRefreshTokenPrivateKey": "RIaPfryYBa6tNU9rzEFoxgipFZaJOfCkgdD8elUTu5SsQKDb0HapSIzabQNm8axa",
+  "requiresAuth": true,
+  "bcryptSalt": "$2b$10$oPd2gJERglqNiWXf3sYwIu",
+  "APP_URL": "http://localhost:9700",
+  "app_domain": "http://localhost:9700/"
+}
